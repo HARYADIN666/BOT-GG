@@ -11,7 +11,7 @@ const axios = require("axios");
 const speed = require('performance-now');
 /*
 HALLO I'M RAMLAN :)
-SCRIPT HANYA UNTUK SAYA
+SCRIPT HANYA UNTUK SAYA MONYET
 TOLONG JANGAN HAPUS TANDA PENGENAL PEMBUAT
 */
 const apivhtear = 'YOUR_APIKEY'; // APIKEY VHTEAR
