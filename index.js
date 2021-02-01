@@ -11,7 +11,7 @@ const axios = require("axios");
 const speed = require('performance-now');
 /*
 HALLO I'M RAMLAN :)
-SCRIPT HANYA UNTUK SAYA BELAJAR
+SCRIPT HANYA UNTUK SAYA 
 TOLONG JANGAN HAPUS TANDA PENGENAL PEMBUAT
 */
 const apivhtear = 'YOUR_APIKEY'; // APIKEY VHTEAR
@@ -1020,7 +1020,7 @@ if (messageType === MessageType.text)
 
     })
   }
-//IG DOWNLOAD
+//IG DOWNLOADj
   if (text.includes('!ig')) {
     const teks = text.replace(/!ig /, "")
     axios.get(`https://mhankbarbar.tech/api/ig?url=${teks}&apiKey=${apibarbar}`).then((res) => {
